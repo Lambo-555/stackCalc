@@ -17,6 +17,15 @@ Task: learn how to use "stack" structure in projects
 
 ![](https://github.com/Lambo-555/stackCalc/blob/main/public/schema.png?raw=true)
 
+-------------
+### Next feacheres
+- Calculator lifecycle
+- Power on/off
+- More Math Ops
+- Add 3D effects (width, glare, mirror)
+- Bug fixing
+
+
 ### Fast access dev git-commands
 - git remote add origin https://github.com/Lambo-555/inbox.git
 - git branch -M main
