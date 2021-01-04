@@ -13,7 +13,8 @@ Task: learn how to use "stack" structure in projects
 - Scalable base
 - Minimalistic design
 - Sound effects on each button push
-- Interfase is not hardcoded -> use can change interface schema
+- Interfase is not hardcoded -> you can change interface schema
+
 ![](https://github.com/Lambo-555/stackCalc/blob/main/public/schema.png?raw=true)
 
 ### Fast access dev git-commands
