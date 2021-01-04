@@ -1,6 +1,6 @@
 import styles from './components.module.scss';
 import SoundFX from '../utils/soundEffects';
-import React, {useState, useRef} from 'react';
+import React, {useRef} from 'react';
 
 export function Button (props) {
   const btnRef = useRef();
