@@ -18,7 +18,7 @@ Task: learn how to use "stack" structure in projects
 ![](https://github.com/Lambo-555/stackCalc/blob/main/public/schema.png?raw=true)
 
 -------------
-### Next feacheres
+### Next feachers
 - Calculator lifecycle
 - Power on/off
 - More Math Ops
